@@ -19,7 +19,7 @@ const Homepage = () => {
     <div>Homepage</div>
     <div className="dash">
    
-    <Link href='/dashboard'> Click Here <span className="colorr">Dashboard</span></Link>
+    <Link href='/login'> Click Here <span className="colorr">Dashboard</span></Link>
     </div>
 
     </div>
